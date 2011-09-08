@@ -1,0 +1,12 @@
+How to use.
+import a Plugins folder to your unity project.
+and thats it!
+
+after you export iPhone project from unity, you have to add these frameworks.
+AVFoundation
+CoreMedia
+CoreVideo
+OpenGLES
+QuartzCore
+
+
